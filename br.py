@@ -1,4 +1,4 @@
-from PyQt5 import QtCore, QtGui, QtWebKit
+from PyQt4 import QtCore, QtGui, QtWebKit
 
 class Browser(QtGui.QMainWindow):
     
